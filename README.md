@@ -99,7 +99,6 @@ You can easily add more website checks — just edit the SITES section inside th
   "url": "https://example.com/{u}",
   "neg": ["not found", "no such user"]
 }
-
 ```
 
 👨‍💻 Developer:
