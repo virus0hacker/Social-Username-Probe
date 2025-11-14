@@ -81,18 +81,18 @@ Unknown    | Telegram      | https://t.me/mlftt
 📌 Notes:
 
 The script does not bypass security systems.
-
 The script does not access any private info.
-
 It only checks publicly available profile URLs.
-
 Some platforms may change layout → results may vary sometimes.
-
 ```
+
 ```
 🛠️ Add New Platforms:
-
+```
+```
 You can easily add more website checks — just edit the SITES section inside the script:
+```
+```
 ```
 {
   "name": "NewSite",
@@ -100,9 +100,11 @@ You can easily add more website checks — just edit the SITES section inside th
   "neg": ["not found", "no such user"]
 }
 ```
-
+```
+```
 👨‍💻 Developer:
-
+```
+```
 | Field    | Information                       |
 | -------- | ------------------------------    |
 | Name     | **virus-hacker**                  |
@@ -111,16 +113,18 @@ You can easily add more website checks — just edit the SITES section inside th
 
 ```
 ```
-
 📜 License:
-
+```
+```
 Released under the MIT License — free for legal and ethical use only.
-
-
+```
+```
 ⭐ Support the Project
-
+```
+```
 إذا أعجبتك الأداة لا تنس:
 
 ترك نجمة (Star) ⭐ للمستودع
 
 مشاركة الأداة لتصل للفائدة
+```
