@@ -50,9 +50,9 @@ requests
 colorama
 
 ```
-
+```
 🖥️ Usage:
-
+```
 python social_username_probe.py -u mlftt
 
 ```
@@ -112,6 +112,7 @@ You can easily add more website checks — just edit the SITES section inside th
 | Snapchat | **ml-ftt**                        |
 | GitHub   | *https://github.com/virus0hacker* |
 
+```
 ```
 
 📜 License:
