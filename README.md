@@ -87,9 +87,7 @@ It only checks publicly available profile URLs.
 
 Some platforms may change layout → results may vary sometimes.
 
----
 ```
-
 ```
 🛠️ Add New Platforms:
 ```
