@@ -43,17 +43,19 @@ git clone https://github.com/USERNAME/social-username-probe
 cd social-username-probe
 pip install -r requirements.txt
 
-
+```
 Requirements:
 
 requests
 colorama
 
+```
 
 🖥️ Usage:
 
 python social_username_probe.py -u mlftt
 
+```
 
 With extra options:
 
@@ -67,7 +69,7 @@ python social_username_probe.py -u mlftt -t 12 --json result.json --csv result.c
 | `--json`            | Export results to JSON                 |
 | `--csv`             | Export results to CSV                  |
 
-
+```
 
 🧪 Example Output:
 
@@ -76,6 +78,7 @@ Not Found  | YouTube       | https://www.youtube.com/@mlftt
 Found      | SoundCloud    | https://soundcloud.com/mlftt
 Unknown    | Telegram      | https://t.me/mlftt
 
+```
 
 📌 Notes:
 
@@ -87,6 +90,7 @@ It only checks publicly available profile URLs.
 
 Some platforms may change layout → results may vary sometimes.
 
+```
 
 🛠️ Add New Platforms:
 
@@ -98,6 +102,7 @@ You can easily add more website checks — just edit the SITES section inside th
   "neg": ["not found", "no such user"]
 }
 
+```
 
 👨‍💻 Developer:
 
@@ -107,6 +112,7 @@ You can easily add more website checks — just edit the SITES section inside th
 | Snapchat | **ml-ftt**                        |
 | GitHub   | *https://github.com/virus0hacker* |
 
+```
 
 📜 License:
 Released under the MIT License — free for legal and ethical use only.
