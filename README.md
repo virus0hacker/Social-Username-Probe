@@ -45,7 +45,7 @@ pip install -r requirements.txt
 
 ```
 Requirements:
-
+```
 requests
 colorama
 
