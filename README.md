@@ -123,5 +123,4 @@ Released under the MIT License — free for legal and ethical use only.
 
 ترك نجمة (Star) ⭐ للمستودع
 
-مشاركة الأداة لتصل للفائدة
 ```
