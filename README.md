@@ -42,17 +42,16 @@
 git clone https://github.com/USERNAME/social-username-probe
 ```
 ---
-cd social-username-probe
 
+cd social-username-probe
+---
 pip install -r requirements.txt
 ---
 
 Requirements:
 ---
 requests
-
 colorama
----
 
 🖥️ Usage:
 ```
@@ -60,7 +59,7 @@ python social_username_probe.py -u test
 ```
 ---
 With extra options:
-
+---
 python social_username_probe.py -u mlftt -t 12 --json result.json --csv result.csv
 
 
@@ -111,8 +110,8 @@ You can easily add more website checks — just edit the SITES section inside th
 ```
 | Field    | Information                       |
 | -------- | ------------------------------    |
-| Name     | **virus-hacker**                  |
-| Snapchat | **ml-ftt**                        |
+| Name     | **virus-Hacker**                  |
+| Twitter  | **h3fq1**                         |
 | GitHub   | *https://github.com/virus0hacker* |
 
 ---
