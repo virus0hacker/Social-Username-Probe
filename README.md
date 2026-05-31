@@ -44,7 +44,6 @@ git clone https://github.com/USERNAME/social-username-probe
 ---
 
 cd social-username-probe
----
 pip install -r requirements.txt
 ---
 
@@ -80,8 +79,7 @@ Unknown    | Telegram      | https://t.me/mlftt
 
 ---
 📌 Notes:
-```
-```
+---
 The script does not bypass security systems.
 
 The script does not access any private info.
