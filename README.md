@@ -52,7 +52,9 @@ Requirements:
 requests
 colorama
 
+---
 🖥️ Usage:
+---
 ```
 python social_username_probe.py -u test
 ```
